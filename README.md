@@ -1,7 +1,7 @@
 - 👋  Olá, eu sou o Julio Ribeiro1
 - 👀 I’m interested in  aprende  Javascript/HTML5/CSS3
 - 🌱 I’m currently learning  HTML/CSS
-- 📫 How to reach me ...
+- 📫  Cursando Engenharia de Sofware na Estacio de Sa
 
 
 <div align="center">
